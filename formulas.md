@@ -14,7 +14,7 @@ $$\Delta = \frac{\partial{V}}{\partial{S}} = \pm N(\pm d_1) $$
 
 $$\Gamma = \frac{\partial^2{V}}{\partial{S^2}} = \frac{N^{\prime}(d_1)}{S\sigma\sqrt{T-t}}$$
 
-$$\Theta = \frac{\partial{V}}{\partial{t}} = -\frac{SN^{\prime}(d_1)\sigma}{2\sqrt{T-t}} \mp rKe^{-r(T-t)}N^{\prime}(\pm d_2) $$
+$$\Theta = \frac{\partial{V}}{\partial{t}} = -\frac{SN^{\prime}(d_1)\sigma}{2\sqrt{T-t}} \mp rKe^{-r(T-t)}N(\pm d_2) $$
 
 $$\nu = \frac{\partial{V}}{\partial{\sigma}} = SN^{\prime}(d_1)\sqrt{T-t}$$
 
