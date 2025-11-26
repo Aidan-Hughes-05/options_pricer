@@ -19,3 +19,5 @@ $$\Theta = \frac{\partial{V}}{\partial{t}} = -\frac{SN'(d_1)\sigma}{S2\sqrt{T-t}
 $$\nu = \frac{\partial{V}}{\partial{\sigma}} = SN'(d_1)\sqrt{T-t}$$
 
 $$\rho = \frac{\partial{V}}{\partial{r}} = \pm K(T-t)e^{-r(T-t)}N(\pm d_2)$$
+
+$N(x)$ and $N'(x)$ are the standard normal cdf and pdf repectively
