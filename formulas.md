@@ -20,4 +20,4 @@ $$\nu = \frac{\partial{V}}{\partial{\sigma}} = SN^{\prime}(d_1)\sqrt{T-t}$$
 
 $$\rho = \frac{\partial{V}}{\partial{r}} = \pm K(T-t)e^{-r(T-t)}N(\pm d_2)$$
 
-$N(x)$ and $N^{\prime}(x)$ are the standard normal cdf and pdf respectively.
+where $N(x)$ and $N^{\prime}(x)$ are the standard normal cdf and pdf respectively.
